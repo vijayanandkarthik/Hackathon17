@@ -1,0 +1,10 @@
+streamlit
+opencv-python
+pillow
+pdf2image
+pytesseract
+fuzzywuzzy
+python-Levenshtein
+pyzbar
+numpy
+pypdf
